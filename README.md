@@ -1,5 +1,6 @@
 
-0x11. C - printf team project
+0x11. C - ALX printf team project
+Made by Sara Baddouh & Wild Nipute
 
 Group Project:                                                                      
                                                                                     
